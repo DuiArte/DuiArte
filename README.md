@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **backtests: show only positive-verdict strategies on the public page** &mdash; 5 minutes ago
-- **update_portfolio.sh: AUTO_PUSH defaults to 1** &mdash; 1 hour ago
-- **schedulers: skip when working tree is dirty** &mdash; 1 hour ago
-- **homepage: add daily recap widget (what changed since last update)** &mdash; 3 hours ago
-- **regime: add AI-cycle + environmental facets with breakdown table** &mdash; 3 hours ago
-- **stocks: add Buffett-style value screener (S&P 500 + Mexican IPC)** &mdash; 8 hours ago
+- **ci: run refresh workflow after market close (22:00 UTC weekdays)** &mdash; 2 hours ago
+- **stock-analysis: full S&P 500 screener universe with threaded fetch + cap-tier column** &mdash; 2 hours ago
+- **backtests: show only positive-verdict strategies on the public page** &mdash; 7 hours ago
+- **update_portfolio.sh: AUTO_PUSH defaults to 1** &mdash; 9 hours ago
+- **schedulers: skip when working tree is dirty** &mdash; 9 hours ago
+- **homepage: add daily recap widget (what changed since last update)** &mdash; 10 hours ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
