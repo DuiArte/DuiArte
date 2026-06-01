@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **08_fetch_signals: atomic GPR write — prevent cloud refresh failures** &mdash; 2 days ago
-- **regime: add Valuation Regime section (sector P/E, leadership, dispersion)** &mdash; 2 days ago
-- **portfolio: add FX Attribution panel with Mode + Currency toggles** &mdash; 2 days ago
-- **26_real_numbers: replace per-ticker Holdings table with attribution-style table** &mdash; 3 days ago
-- **scripts: 08 — retry FRED with backoff, never wipe prior CSV on failure** &mdash; 3 days ago
-- **daily_refresh: regenerate real_numbers/ portfolio pages with today prices** &mdash; 3 days ago
+- **08_fetch_signals: atomic GPR write — prevent cloud refresh failures** &mdash; 3 days ago
+- **regime: add Valuation Regime section (sector P/E, leadership, dispersion)** &mdash; 3 days ago
+- **portfolio: add FX Attribution panel with Mode + Currency toggles** &mdash; 3 days ago
+- **26_real_numbers: replace per-ticker Holdings table with attribution-style table** &mdash; 4 days ago
+- **scripts: 08 — retry FRED with backoff, never wipe prior CSV on failure** &mdash; 4 days ago
+- **daily_refresh: regenerate real_numbers/ portfolio pages with today prices** &mdash; 4 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
