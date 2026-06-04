@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **data: refresh portfolio + strategies pages to 2026-06-02** &mdash; 15 hours ago
-- **fix(24_backtests): resolve hub path on native Windows; regen backtests** &mdash; 23 hours ago
-- **chore: verify autonomous push from Claude Code task** &mdash; 1 day ago
-- **08_fetch_signals: atomic GPR write — prevent cloud refresh failures** &mdash; 5 days ago
-- **regime: add Valuation Regime section (sector P/E, leadership, dispersion)** &mdash; 5 days ago
-- **portfolio: add FX Attribution panel with Mode + Currency toggles** &mdash; 5 days ago
+- **feat(pages): confidentiality discipline on strategy cards** &mdash; 2 hours ago
+- **feat(projects): wire 5 published DuiArte repo URLs into Projects cards** &mdash; 2 hours ago
+- **fix(fx-attribution): include ASTS + auto-detect USD positions from Holdings** &mdash; 2 hours ago
+- **content(bio): update CFA Level I sitting to May 2026** &mdash; 2 hours ago
+- **fix(portfolio): always render share counts as whole integers** &mdash; 2 hours ago
+- **style: institutional restyle — demure editorial identity across all pages** &mdash; 3 hours ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
