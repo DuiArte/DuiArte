@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **feat(pages): confidentiality discipline on strategy cards** &mdash; 2 hours ago
-- **feat(projects): wire 5 published DuiArte repo URLs into Projects cards** &mdash; 2 hours ago
-- **fix(fx-attribution): include ASTS + auto-detect USD positions from Holdings** &mdash; 2 hours ago
-- **content(bio): update CFA Level I sitting to May 2026** &mdash; 2 hours ago
-- **fix(portfolio): always render share counts as whole integers** &mdash; 2 hours ago
-- **style: institutional restyle — demure editorial identity across all pages** &mdash; 3 hours ago
+- **feat(pages): merge strategies+backtests, merge stocks+signals with composite picker** &mdash; 7 hours ago
+- **fix(refresh): self-sync + build-only mode — close the wiring gap** &mdash; 7 hours ago
+- **data: refresh all pages — regime tracker as-of fix (was stale May 2026)** &mdash; 7 hours ago
+- **docs(deploy): add CI failure playbook for refresh.yml** &mdash; 9 hours ago
+- **fix(ci): add timeouts + retries to refresh.yml — prevent 100min hangs** &mdash; 9 hours ago
+- **chore: daily website refresh 2026-06-04 (host Task Scheduler)** &mdash; 12 hours ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
