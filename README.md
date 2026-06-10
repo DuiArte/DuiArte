@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **feat(portfolio): public equity curve now consumes ledger-reconciled sidecar (x1.8)** &mdash; 8 hours ago
-- **fix(text): glossary "Recycled base" entry uses scaled 18M for confidentiality consistency** &mdash; 9 hours ago
-- **chore: daily website refresh 2026-06-08 (host Task Scheduler)** &mdash; 12 hours ago
-- **docs(deploy): record flow-immune + split-reconciled equity-curve methodology** &mdash; 3 days ago
-- **fix(portfolio): make equity curve flow-immune + split-reconciled across full history** &mdash; 3 days ago
-- **feat(pages): merge strategies+backtests, merge stocks+signals with composite picker** &mdash; 4 days ago
+- **fix(data-sync): FRED API migration + snapshot-archive sync + external-flow KPI guard** &mdash; 3 hours ago
+- **chore: daily website refresh 2026-06-10 (host Task Scheduler)** &mdash; 4 hours ago
+- **feat(portfolio): public equity curve now consumes ledger-reconciled sidecar (x1.8)** &mdash; 1 day ago
+- **fix(text): glossary "Recycled base" entry uses scaled 18M for confidentiality consistency** &mdash; 1 day ago
+- **docs(deploy): record flow-immune + split-reconciled equity-curve methodology** &mdash; 4 days ago
+- **fix(portfolio): make equity curve flow-immune + split-reconciled across full history** &mdash; 4 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
