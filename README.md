@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **fix(data-sync): FRED API migration + snapshot-archive sync + external-flow KPI guard** &mdash; 3 hours ago
-- **chore: daily website refresh 2026-06-10 (host Task Scheduler)** &mdash; 4 hours ago
-- **feat(portfolio): public equity curve now consumes ledger-reconciled sidecar (x1.8)** &mdash; 1 day ago
-- **fix(text): glossary "Recycled base" entry uses scaled 18M for confidentiality consistency** &mdash; 1 day ago
-- **docs(deploy): record flow-immune + split-reconciled equity-curve methodology** &mdash; 4 days ago
-- **fix(portfolio): make equity curve flow-immune + split-reconciled across full history** &mdash; 4 days ago
+- **chore: daily website refresh 2026-06-10 (Windows-native Task Scheduler)** &mdash; 7 hours ago
+- **docs(pipeline): mark daily_refresh.sh deprecated (Windows-native migration; ad-hoc WSL fallback only)** &mdash; 7 hours ago
+- **feat(real-numbers): timestamped audit copies for the tracker mirror (Portfolio_REAL_standalone_tracker_YYYY-MM-DD_HHMMSS.html; un-suffixed name stays the convenience pointer)** &mdash; 7 hours ago
+- **fix(fx-attribution): dual-base FX impact + Windows fixes + 375px overflow** &mdash; 7 hours ago
+- **fix(pipeline): env check must not import paths from repo root** &mdash; 7 hours ago
+- **feat(pipeline): Windows-native daily_refresh.ps1 (migration step 2) - full generator chain on Windows Python, dirty-tree guard, as-of + regression checks, commit/push, live verify; .claude/ ignored** &mdash; 8 hours ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
