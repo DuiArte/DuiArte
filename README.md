@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-06-15 (Windows-native Task Scheduler)** &mdash; 10 hours ago
-- **portfolio: fix 5 UI bugs (header order, realized section, total KPI, totals row, P/L colours)** &mdash; 10 hours ago
-- **docs(pipeline): mark daily_refresh.sh deprecated (Windows-native migration; ad-hoc WSL fallback only)** &mdash; 5 days ago
-- **feat(real-numbers): timestamped audit copies for the tracker mirror (Portfolio_REAL_standalone_tracker_YYYY-MM-DD_HHMMSS.html; un-suffixed name stays the convenience pointer)** &mdash; 5 days ago
-- **fix(fx-attribution): dual-base FX impact + Windows fixes + 375px overflow** &mdash; 5 days ago
-- **fix(pipeline): env check must not import paths from repo root** &mdash; 5 days ago
+- **chore: daily website refresh 2026-06-16 (Windows-native Task Scheduler)** &mdash; 13 hours ago
+- **portfolio: fix 5 UI bugs (header order, realized section, total KPI, totals row, P/L colours)** &mdash; 1 day ago
+- **docs(pipeline): mark daily_refresh.sh deprecated (Windows-native migration; ad-hoc WSL fallback only)** &mdash; 6 days ago
+- **feat(real-numbers): timestamped audit copies for the tracker mirror (Portfolio_REAL_standalone_tracker_YYYY-MM-DD_HHMMSS.html; un-suffixed name stays the convenience pointer)** &mdash; 6 days ago
+- **fix(fx-attribution): dual-base FX impact + Windows fixes + 375px overflow** &mdash; 6 days ago
+- **fix(pipeline): env check must not import paths from repo root** &mdash; 6 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
