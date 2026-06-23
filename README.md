@@ -37,9 +37,9 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-06-17 (Windows-native Task Scheduler)** &mdash; 4 days ago
-- **strategies: add Multi-Level Rotation Family process showcase (Findings #29-#34)** &mdash; 4 days ago
-- **portfolio: fix 5 UI bugs (header order, realized section, total KPI, totals row, P/L colours)** &mdash; 6 days ago
+- **chore: daily website refresh 2026-06-17 (Windows-native Task Scheduler)** &mdash; 5 days ago
+- **strategies: add Multi-Level Rotation Family process showcase (Findings #29-#34)** &mdash; 5 days ago
+- **portfolio: fix 5 UI bugs (header order, realized section, total KPI, totals row, P/L colours)** &mdash; 1 week ago
 - **docs(pipeline): mark daily_refresh.sh deprecated (Windows-native migration; ad-hoc WSL fallback only)** &mdash; 1 week ago
 - **feat(real-numbers): timestamped audit copies for the tracker mirror (Portfolio_REAL_standalone_tracker_YYYY-MM-DD_HHMMSS.html; un-suffixed name stays the convenience pointer)** &mdash; 1 week ago
 - **fix(fx-attribution): dual-base FX impact + Windows fixes + 375px overflow** &mdash; 1 week ago
