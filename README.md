@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-06-23 (Windows-native Task Scheduler)** &mdash; 11 hours ago
-- **fix: recover EMBER source + harden daily refresh against generated-file rebase trap** &mdash; 16 hours ago
-- **strategies: add Multi-Level Rotation Family process showcase (Findings #29-#34)** &mdash; 6 days ago
+- **chore: daily website refresh 2026-06-24 (Windows-native Task Scheduler)** &mdash; 11 hours ago
+- **fix: recover EMBER source + harden daily refresh against generated-file rebase trap** &mdash; 1 day ago
+- **strategies: add Multi-Level Rotation Family process showcase (Findings #29-#34)** &mdash; 1 week ago
 - **portfolio: fix 5 UI bugs (header order, realized section, total KPI, totals row, P/L colours)** &mdash; 1 week ago
-- **docs(pipeline): mark daily_refresh.sh deprecated (Windows-native migration; ad-hoc WSL fallback only)** &mdash; 1 week ago
-- **feat(real-numbers): timestamped audit copies for the tracker mirror (Portfolio_REAL_standalone_tracker_YYYY-MM-DD_HHMMSS.html; un-suffixed name stays the convenience pointer)** &mdash; 1 week ago
+- **docs(pipeline): mark daily_refresh.sh deprecated (Windows-native migration; ad-hoc WSL fallback only)** &mdash; 2 weeks ago
+- **feat(real-numbers): timestamped audit copies for the tracker mirror (Portfolio_REAL_standalone_tracker_YYYY-MM-DD_HHMMSS.html; un-suffixed name stays the convenience pointer)** &mdash; 2 weeks ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
