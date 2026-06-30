@@ -37,10 +37,10 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-06-26 (Windows-native Task Scheduler)** &mdash; 2 days ago
-- **fix: recover EMBER source + harden daily refresh against generated-file rebase trap** &mdash; 5 days ago
+- **chore: daily website refresh 2026-06-29 (Windows-native Task Scheduler)** &mdash; 12 hours ago
+- **fix: recover EMBER source + harden daily refresh against generated-file rebase trap** &mdash; 6 days ago
 - **strategies: add Multi-Level Rotation Family process showcase (Findings #29-#34)** &mdash; 1 week ago
-- **portfolio: fix 5 UI bugs (header order, realized section, total KPI, totals row, P/L colours)** &mdash; 1 week ago
+- **portfolio: fix 5 UI bugs (header order, realized section, total KPI, totals row, P/L colours)** &mdash; 2 weeks ago
 - **docs(pipeline): mark daily_refresh.sh deprecated (Windows-native migration; ad-hoc WSL fallback only)** &mdash; 2 weeks ago
 - **feat(real-numbers): timestamped audit copies for the tracker mirror (Portfolio_REAL_standalone_tracker_YYYY-MM-DD_HHMMSS.html; un-suffixed name stays the convenience pointer)** &mdash; 2 weeks ago
 
