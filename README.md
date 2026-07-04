@@ -37,10 +37,10 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **docs(deploy): bookend the Pages Jekyll deploy-failure mode + .nojekyll fix** &mdash; 10 hours ago
-- **fix(pages): disable Jekyll on the static site to stop deploy failures** &mdash; 10 hours ago
-- **chore: daily website refresh 2026-07-02 (Windows-native Task Scheduler)** &mdash; 11 hours ago
-- **fix(picker): clear error on full yfinance outage instead of cryptic KeyError** &mdash; 2 days ago
+- **chore: daily website refresh 2026-07-03 (Windows-native Task Scheduler)** &mdash; 10 hours ago
+- **docs(deploy): bookend the Pages Jekyll deploy-failure mode + .nojekyll fix** &mdash; 1 day ago
+- **fix(pages): disable Jekyll on the static site to stop deploy failures** &mdash; 1 day ago
+- **fix(picker): clear error on full yfinance outage instead of cryptic KeyError** &mdash; 3 days ago
 - **fix: recover EMBER source + harden daily refresh against generated-file rebase trap** &mdash; 1 week ago
 - **strategies: add Multi-Level Rotation Family process showcase (Findings #29-#34)** &mdash; 2 weeks ago
 
