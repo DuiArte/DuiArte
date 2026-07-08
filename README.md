@@ -37,11 +37,11 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-07-06 (Windows-native Task Scheduler)** &mdash; 11 hours ago
-- **docs(deploy): bookend the Pages Jekyll deploy-failure mode + .nojekyll fix** &mdash; 4 days ago
-- **fix(pages): disable Jekyll on the static site to stop deploy failures** &mdash; 4 days ago
-- **fix(picker): clear error on full yfinance outage instead of cryptic KeyError** &mdash; 6 days ago
-- **fix: recover EMBER source + harden daily refresh against generated-file rebase trap** &mdash; 1 week ago
+- **chore: daily website refresh 2026-07-07 (Windows-native Task Scheduler)** &mdash; 11 hours ago
+- **docs(deploy): bookend the Pages Jekyll deploy-failure mode + .nojekyll fix** &mdash; 5 days ago
+- **fix(pages): disable Jekyll on the static site to stop deploy failures** &mdash; 5 days ago
+- **fix(picker): clear error on full yfinance outage instead of cryptic KeyError** &mdash; 1 week ago
+- **fix: recover EMBER source + harden daily refresh against generated-file rebase trap** &mdash; 2 weeks ago
 - **strategies: add Multi-Level Rotation Family process showcase (Findings #29-#34)** &mdash; 2 weeks ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
