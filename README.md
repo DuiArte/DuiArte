@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **feat(portfolio): add realized / unrealized / combined return banners** &mdash; 12 hours ago
-- **fix(portfolio): merge GBM ledger exports so realized P&L is complete** &mdash; 12 hours ago
-- **docs(deploy): bookend the scaled-cell/unscaled-attribute leak** &mdash; 12 hours ago
-- **chore: daily website refresh 2026-07-08 (Windows-native Task Scheduler)** &mdash; 1 day ago
-- **fix(pages): disable Jekyll on the static site to stop deploy failures** &mdash; 1 week ago
-- **fix(picker): clear error on full yfinance outage instead of cryptic KeyError** &mdash; 1 week ago
+- **chore: daily website refresh 2026-07-10 (Windows-native Task Scheduler)** &mdash; 10 hours ago
+- **fix(css): stop sticky table headers overlapping the first row inside scroll tiles** &mdash; 10 hours ago
+- **docs(portfolio): update docstring + deploy notes for the all-in cost convention** &mdash; 10 hours ago
+- **fix(portfolio): move the held cost basis to the all-in (fee-inclusive) convention** &mdash; 10 hours ago
+- **docs+fix(portfolio): document the build, retire the dead base-curve block** &mdash; 10 hours ago
+- **feat(portfolio): add realized / unrealized / combined return banners** &mdash; 1 day ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
