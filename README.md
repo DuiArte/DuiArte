@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-07-16 (Windows-native Task Scheduler)** &mdash; 10 hours ago
-- **fix(css): stop sticky table headers overlapping the first row inside scroll tiles** &mdash; 6 days ago
-- **docs(portfolio): update docstring + deploy notes for the all-in cost convention** &mdash; 6 days ago
-- **fix(portfolio): move the held cost basis to the all-in (fee-inclusive) convention** &mdash; 6 days ago
-- **docs+fix(portfolio): document the build, retire the dead base-curve block** &mdash; 6 days ago
-- **feat(portfolio): add realized / unrealized / combined return banners** &mdash; 1 week ago
+- **chore: daily website refresh 2026-07-17 (Windows-native Task Scheduler)** &mdash; 10 hours ago
+- **ci(refresh): rebuild all PUBLIC pages, not just index, on the GitHub Actions run** &mdash; 13 hours ago
+- **fix(css): stop sticky table headers overlapping the first row inside scroll tiles** &mdash; 1 week ago
+- **docs(portfolio): update docstring + deploy notes for the all-in cost convention** &mdash; 1 week ago
+- **fix(portfolio): move the held cost basis to the all-in (fee-inclusive) convention** &mdash; 1 week ago
+- **docs+fix(portfolio): document the build, retire the dead base-curve block** &mdash; 1 week ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
