@@ -37,8 +37,8 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-08-05 (Windows-native Task Scheduler)** &mdash; 11 hours ago
-- **fix(portfolio): rebuild cost-basis sidecar to 2026-08-05; unblock publishing** &mdash; 13 hours ago
+- **chore: daily website refresh 2026-08-06 (Windows-native Task Scheduler)** &mdash; 9 hours ago
+- **fix(portfolio): rebuild cost-basis sidecar to 2026-08-05; unblock publishing** &mdash; 1 day ago
 - **ci(refresh): rebuild all PUBLIC pages, not just index, on the GitHub Actions run** &mdash; 2 weeks ago
 - **fix(css): stop sticky table headers overlapping the first row inside scroll tiles** &mdash; 3 weeks ago
 - **docs(portfolio): update docstring + deploy notes for the all-in cost convention** &mdash; 3 weeks ago
