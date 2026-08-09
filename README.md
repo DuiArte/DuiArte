@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-08-07 (Windows-native Task Scheduler)** &mdash; 9 hours ago
-- **fix(pipeline): make the post-push live check enforcing and cover every page** &mdash; 10 hours ago
-- **fix(site): stop bare URLs breaking report.html out of the 375px mobile gate** &mdash; 11 hours ago
-- **chore(data): rebuild LTCMA core on refreshed public inputs (01-05b)** &mdash; 11 hours ago
-- **fix(ltcma): repair model refresh path, source CAPE live, split as-of stamps** &mdash; 11 hours ago
-- **fix(portfolio): rebuild cost-basis sidecar to 2026-08-05; unblock publishing** &mdash; 2 days ago
+- **chore: daily website refresh 2026-08-07 (Windows-native Task Scheduler)** &mdash; 1 day ago
+- **fix(pipeline): make the post-push live check enforcing and cover every page** &mdash; 1 day ago
+- **fix(site): stop bare URLs breaking report.html out of the 375px mobile gate** &mdash; 1 day ago
+- **chore(data): rebuild LTCMA core on refreshed public inputs (01-05b)** &mdash; 1 day ago
+- **fix(ltcma): repair model refresh path, source CAPE live, split as-of stamps** &mdash; 1 day ago
+- **fix(portfolio): rebuild cost-basis sidecar to 2026-08-05; unblock publishing** &mdash; 3 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
