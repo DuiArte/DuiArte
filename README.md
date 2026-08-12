@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-08-10 (Windows-native Task Scheduler)** &mdash; 9 hours ago
-- **fix(pipeline): make the post-push live check enforcing and cover every page** &mdash; 3 days ago
-- **fix(site): stop bare URLs breaking report.html out of the 375px mobile gate** &mdash; 3 days ago
-- **chore(data): rebuild LTCMA core on refreshed public inputs (01-05b)** &mdash; 3 days ago
-- **fix(ltcma): repair model refresh path, source CAPE live, split as-of stamps** &mdash; 3 days ago
-- **fix(portfolio): rebuild cost-basis sidecar to 2026-08-05; unblock publishing** &mdash; 5 days ago
+- **docs(style): chart rules from the equity-curve pass** &mdash; 2 hours ago
+- **fix(sched): weekly rebuild now runs 05c + 16, orphaned since 2026-06-23** &mdash; 2 hours ago
+- **chore(site): rebuild portfolio.html on the new equity-curve chart** &mdash; 2 hours ago
+- **feat(portfolio): live trade markers on the equity curve + chart design pass** &mdash; 2 hours ago
+- **chore: daily website refresh 2026-08-11 (Windows-native Task Scheduler)** &mdash; 3 hours ago
+- **fix(site): .tile grid blowout broke the 375px gate on every chart page** &mdash; 3 hours ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
