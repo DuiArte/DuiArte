@@ -37,9 +37,9 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-08-19 (Windows-native Task Scheduler)** &mdash; 9 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-08-16 (01-04 + risk/MC)** &mdash; 3 days ago
-- **fix(charts): finish the font sweep the style guide asked for** &mdash; 6 days ago
+- **chore: daily website refresh 2026-08-20 (Windows-native Task Scheduler)** &mdash; 9 hours ago
+- **chore(model): weekly LTCMA rebuild 2026-08-16 (01-04 + risk/MC)** &mdash; 4 days ago
+- **fix(charts): finish the font sweep the style guide asked for** &mdash; 1 week ago
 - **docs(style): chart rules from the equity-curve pass** &mdash; 1 week ago
 - **fix(sched): weekly rebuild now runs 05c + 16, orphaned since 2026-06-23** &mdash; 1 week ago
 - **chore(site): rebuild portfolio.html on the new equity-curve chart** &mdash; 1 week ago
