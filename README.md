@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-08-24 (Windows-native Task Scheduler)** &mdash; 9 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-08-23 (01-04 + risk/MC)** &mdash; 1 day ago
+- **chore: daily website refresh 2026-08-25 (Windows-native Task Scheduler)** &mdash; 9 hours ago
+- **chore(model): weekly LTCMA rebuild 2026-08-23 (01-04 + risk/MC)** &mdash; 2 days ago
 - **fix(charts): finish the font sweep the style guide asked for** &mdash; 1 week ago
-- **docs(style): chart rules from the equity-curve pass** &mdash; 1 week ago
-- **fix(sched): weekly rebuild now runs 05c + 16, orphaned since 2026-06-23** &mdash; 1 week ago
-- **chore(site): rebuild portfolio.html on the new equity-curve chart** &mdash; 1 week ago
+- **docs(style): chart rules from the equity-curve pass** &mdash; 2 weeks ago
+- **fix(sched): weekly rebuild now runs 05c + 16, orphaned since 2026-06-23** &mdash; 2 weeks ago
+- **chore(site): rebuild portfolio.html on the new equity-curve chart** &mdash; 2 weeks ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
