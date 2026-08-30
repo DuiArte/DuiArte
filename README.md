@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **Full mobile-friendly overhaul across all pages** &mdash; 13 hours ago
-- **fix: restore stocks.html to the stock-picks landing page** &mdash; 14 hours ago
-- **fix(mobile): charts fit the viewport, nav scrolls, dense labels drop** &mdash; 14 hours ago
-- **chore: regenerate site for the mobile fixes (2026-08-28)** &mdash; 14 hours ago
-- **Mobile-friendly fixes: responsive charts, nav scroll, no clipped titles** &mdash; 14 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-08-23 (01-04 + risk/MC)** &mdash; 5 days ago
+- **Full mobile-friendly overhaul across all pages** &mdash; 1 day ago
+- **fix: restore stocks.html to the stock-picks landing page** &mdash; 1 day ago
+- **fix(mobile): charts fit the viewport, nav scrolls, dense labels drop** &mdash; 1 day ago
+- **chore: regenerate site for the mobile fixes (2026-08-28)** &mdash; 1 day ago
+- **Mobile-friendly fixes: responsive charts, nav scroll, no clipped titles** &mdash; 1 day ago
+- **chore(model): weekly LTCMA rebuild 2026-08-23 (01-04 + risk/MC)** &mdash; 6 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
