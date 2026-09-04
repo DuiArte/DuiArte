@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-09-02 (Windows-native Task Scheduler)** &mdash; 13 hours ago
-- **redesign Phase 0: design-system foundations (no visual change)** &mdash; 2 days ago
-- **chore(model): weekly LTCMA rebuild 2026-08-30 (01-04 + risk/MC)** &mdash; 3 days ago
-- **Full mobile-friendly overhaul across all pages** &mdash; 5 days ago
-- **fix: restore stocks.html to the stock-picks landing page** &mdash; 5 days ago
-- **fix(mobile): charts fit the viewport, nav scrolls, dense labels drop** &mdash; 5 days ago
+- **chore: daily website refresh 2026-09-03 (Windows-native Task Scheduler)** &mdash; 13 hours ago
+- **redesign Phase 0: design-system foundations (no visual change)** &mdash; 3 days ago
+- **chore(model): weekly LTCMA rebuild 2026-08-30 (01-04 + risk/MC)** &mdash; 4 days ago
+- **Full mobile-friendly overhaul across all pages** &mdash; 6 days ago
+- **fix: restore stocks.html to the stock-picks landing page** &mdash; 6 days ago
+- **fix(mobile): charts fit the viewport, nav scrolls, dense labels drop** &mdash; 6 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
