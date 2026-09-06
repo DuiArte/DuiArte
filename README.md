@@ -37,9 +37,9 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-09-04 (Windows-native Task Scheduler)** &mdash; 12 hours ago
-- **redesign Phase 0: design-system foundations (no visual change)** &mdash; 4 days ago
-- **chore(model): weekly LTCMA rebuild 2026-08-30 (01-04 + risk/MC)** &mdash; 5 days ago
+- **chore: daily website refresh 2026-09-04 (Windows-native Task Scheduler)** &mdash; 1 day ago
+- **redesign Phase 0: design-system foundations (no visual change)** &mdash; 5 days ago
+- **chore(model): weekly LTCMA rebuild 2026-08-30 (01-04 + risk/MC)** &mdash; 6 days ago
 - **Full mobile-friendly overhaul across all pages** &mdash; 1 week ago
 - **fix: restore stocks.html to the stock-picks landing page** &mdash; 1 week ago
 - **fix(mobile): charts fit the viewport, nav scrolls, dense labels drop** &mdash; 1 week ago
