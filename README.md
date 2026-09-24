@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-09-22 (Windows-native Task Scheduler)** &mdash; 14 hours ago
-- **fix(ui): site-wide number formatting, entity bug, per-currency returns; home as landing** &mdash; 15 hours ago
-- **feat(portfolio): peak-concurrent dual-currency book, TWRR + MWRR, site redesign pass** &mdash; 16 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-09-20 (01-04 + risk/MC)** &mdash; 2 days ago
-- **redesign Phase 0: design-system foundations (no visual change)** &mdash; 3 weeks ago
-- **Full mobile-friendly overhaul across all pages** &mdash; 3 weeks ago
+- **feat(anon): el Avg Cost de Holdings también lleva jitter (llave `c`)** &mdash; 13 hours ago
+- **chore: daily website refresh 2026-09-23 (Windows-native Task Scheduler)** &mdash; 14 hours ago
+- **fix(anon): la tabla de Realizados también publicaba precios reales por acción** &mdash; 15 hours ago
+- **feat(portfolio): 2026-09-23 de-risk — 5 sells, realized ITD 2.09M MXN, utilisation 95.7%→40.3%** &mdash; 16 hours ago
+- **fix(ui): site-wide number formatting, entity bug, per-currency returns; home as landing** &mdash; 1 day ago
+- **chore(model): weekly LTCMA rebuild 2026-09-20 (01-04 + risk/MC)** &mdash; 3 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
