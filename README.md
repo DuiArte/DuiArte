@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-09-24 (Windows-native Task Scheduler)** &mdash; 14 hours ago
-- **fix(portfolio): el % no realizado dividía entre un costo distinto al que muestra el tile** &mdash; 15 hours ago
-- **style(site): techo de 2 decimales en todo lo visible + guard que lo sostiene** &mdash; 16 hours ago
-- **feat(anon): el Avg Cost de Holdings también lleva jitter (llave `c`)** &mdash; 1 day ago
-- **fix(anon): la tabla de Realizados también publicaba precios reales por acción** &mdash; 1 day ago
-- **feat(portfolio): 2026-09-23 de-risk — 5 sells, realized ITD 2.09M MXN, utilisation 95.7%→40.3%** &mdash; 1 day ago
+- **chore: daily website refresh 2026-09-25 (Windows-native Task Scheduler)** &mdash; 13 hours ago
+- **fix(backtests): el techo de decimales va en el RENDERER, no en el artefacto** &mdash; 16 hours ago
+- **docs(portfolio): "Performance as of" en vez de "Book as of"** &mdash; 16 hours ago
+- **fix(portfolio): el % no realizado dividía entre un costo distinto al que muestra el tile** &mdash; 1 day ago
+- **style(site): techo de 2 decimales en todo lo visible + guard que lo sostiene** &mdash; 1 day ago
+- **feat(anon): el Avg Cost de Holdings también lleva jitter (llave `c`)** &mdash; 2 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
