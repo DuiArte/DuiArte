@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-09-28 (Windows-native Task Scheduler)** &mdash; 15 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-09-27 (01-04 + risk/MC)** &mdash; 1 day ago
-- **fix(backtests): el techo de decimales va en el RENDERER, no en el artefacto** &mdash; 3 days ago
-- **docs(portfolio): "Performance as of" en vez de "Book as of"** &mdash; 3 days ago
-- **fix(portfolio): el % no realizado dividía entre un costo distinto al que muestra el tile** &mdash; 4 days ago
-- **style(site): techo de 2 decimales en todo lo visible + guard que lo sostiene** &mdash; 4 days ago
+- **chore: daily website refresh 2026-09-29 (Windows-native Task Scheduler)** &mdash; 15 hours ago
+- **chore(model): weekly LTCMA rebuild 2026-09-27 (01-04 + risk/MC)** &mdash; 2 days ago
+- **fix(backtests): el techo de decimales va en el RENDERER, no en el artefacto** &mdash; 4 days ago
+- **docs(portfolio): "Performance as of" en vez de "Book as of"** &mdash; 4 days ago
+- **fix(portfolio): el % no realizado dividía entre un costo distinto al que muestra el tile** &mdash; 5 days ago
+- **style(site): techo de 2 decimales en todo lo visible + guard que lo sostiene** &mdash; 5 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
