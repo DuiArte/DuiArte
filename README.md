@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-09-29 (Windows-native Task Scheduler)** &mdash; 15 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-09-27 (01-04 + risk/MC)** &mdash; 2 days ago
-- **fix(backtests): el techo de decimales va en el RENDERER, no en el artefacto** &mdash; 4 days ago
-- **docs(portfolio): "Performance as of" en vez de "Book as of"** &mdash; 4 days ago
-- **fix(portfolio): el % no realizado dividía entre un costo distinto al que muestra el tile** &mdash; 5 days ago
-- **style(site): techo de 2 decimales en todo lo visible + guard que lo sostiene** &mdash; 5 days ago
+- **chore(site): regenerar index tras ajuste de texto del snapshot** &mdash; 6 hours ago
+- **fix(home): el texto del Market Snapshot describia el delta viejo (vs build anterior)** &mdash; 6 hours ago
+- **fix(report): D-20260924-004 opcion (b) — report.html de 11-ago pasa a edicion archivada con fecha** &mdash; 6 hours ago
+- **fix(site): DDM sin filtro de payout (NVDA -75%), dos "Market value" sin explicar, hueco bajo el heatmap** &mdash; 6 hours ago
+- **chore: daily website refresh 2026-09-30 (Windows-native Task Scheduler)** &mdash; 15 hours ago
+- **fix(portfolio): 6 de 21 posiciones no se re-marcaban desde el 09-23; guard de NUMEROS** &mdash; 17 hours ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
