@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-10-02 (Windows-native Task Scheduler)** &mdash; 1 day ago
-- **chore(site): regenerar index tras ajuste de texto del snapshot** &mdash; 3 days ago
-- **fix(home): el texto del Market Snapshot describia el delta viejo (vs build anterior)** &mdash; 3 days ago
-- **fix(report): D-20260924-004 opcion (b) — report.html de 11-ago pasa a edicion archivada con fecha** &mdash; 3 days ago
-- **fix(site): DDM sin filtro de payout (NVDA -75%), dos "Market value" sin explicar, hueco bajo el heatmap** &mdash; 3 days ago
-- **fix(portfolio): 6 de 21 posiciones no se re-marcaban desde el 09-23; guard de NUMEROS** &mdash; 3 days ago
+- **chore(model): weekly LTCMA rebuild 2026-10-04 (01-04 + risk/MC)** &mdash; 11 hours ago
+- **chore: daily website refresh 2026-10-02 (Windows-native Task Scheduler)** &mdash; 2 days ago
+- **chore(site): regenerar index tras ajuste de texto del snapshot** &mdash; 4 days ago
+- **fix(home): el texto del Market Snapshot describia el delta viejo (vs build anterior)** &mdash; 4 days ago
+- **fix(report): D-20260924-004 opcion (b) — report.html de 11-ago pasa a edicion archivada con fecha** &mdash; 4 days ago
+- **fix(site): DDM sin filtro de payout (NVDA -75%), dos "Market value" sin explicar, hueco bajo el heatmap** &mdash; 4 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
