@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-10-05 (Windows-native Task Scheduler)** &mdash; 15 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-10-04 (01-04 + risk/MC)** &mdash; 1 day ago
-- **chore(site): regenerar index tras ajuste de texto del snapshot** &mdash; 5 days ago
-- **fix(home): el texto del Market Snapshot describia el delta viejo (vs build anterior)** &mdash; 5 days ago
-- **fix(report): D-20260924-004 opcion (b) — report.html de 11-ago pasa a edicion archivada con fecha** &mdash; 5 days ago
-- **fix(site): DDM sin filtro de payout (NVDA -75%), dos "Market value" sin explicar, hueco bajo el heatmap** &mdash; 5 days ago
+- **market intel: consensus preliminary edition 2026-10-07 (task market-intel-monthly)** &mdash; 31 minutes ago
+- **market intel renderer: labels from what is rendered; gap note; distinct regime rows** &mdash; 1 hour ago
+- **EMBER paper-track: apply stock splits; repair the ETHA 1:3 reverse split (10-06)** &mdash; 7 hours ago
+- **benchmarks read YTD: S&P from the 2025 year-end close, book in cash until its first trade** &mdash; 7 hours ago
+- **content age: stock pages are a watchlist, not portfolio coverage** &mdash; 7 hours ago
+- **freshness: separate Status from Content; "1 day" not "1 days"** &mdash; 7 hours ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
