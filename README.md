@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **market intel: consensus preliminary edition 2026-10-07 (task market-intel-monthly)** &mdash; 31 minutes ago
-- **market intel renderer: labels from what is rendered; gap note; distinct regime rows** &mdash; 1 hour ago
-- **EMBER paper-track: apply stock splits; repair the ETHA 1:3 reverse split (10-06)** &mdash; 7 hours ago
-- **benchmarks read YTD: S&P from the 2025 year-end close, book in cash until its first trade** &mdash; 7 hours ago
-- **content age: stock pages are a watchlist, not portfolio coverage** &mdash; 7 hours ago
-- **freshness: separate Status from Content; "1 day" not "1 days"** &mdash; 7 hours ago
+- **chore: daily website refresh 2026-10-07 (Windows-native Task Scheduler)** &mdash; 16 hours ago
+- **street ltcma: method text says gated firms are left out (C-20261007-02)** &mdash; 19 hours ago
+- **docs: Street LTCMA down and held (C-20261007-02); purge of e971777 pending** &mdash; 19 hours ago
+- **market intel: consensus preliminary edition 2026-10-07 (task market-intel-monthly)** &mdash; 19 hours ago
+- **nav: Street LTCMA tab only while its data is published (C-20261007-02)** &mdash; 19 hours ago
+- **generated: bt pages + public catalog with private paths/file names redacted** &mdash; 21 hours ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
