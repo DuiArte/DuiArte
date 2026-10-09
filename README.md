@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore: daily website refresh 2026-10-07 (Windows-native Task Scheduler)** &mdash; 16 hours ago
-- **street ltcma: method text says gated firms are left out (C-20261007-02)** &mdash; 19 hours ago
-- **docs: Street LTCMA down and held (C-20261007-02); purge of e971777 pending** &mdash; 19 hours ago
-- **market intel: consensus preliminary edition 2026-10-07 (task market-intel-monthly)** &mdash; 19 hours ago
-- **nav: Street LTCMA tab only while its data is published (C-20261007-02)** &mdash; 19 hours ago
-- **generated: bt pages + public catalog with private paths/file names redacted** &mdash; 21 hours ago
+- **strategies: log axes print whole values; stamp says the curves end Apr 2026** &mdash; 7 hours ago
+- **docs: Projects sync pushed 2026-10-09 (DEC-40 resolved)** &mdash; 8 hours ago
+- **projects: card copy matches what each repo contains; Static Drift badge Research** &mdash; 8 hours ago
+- **chore: daily website refresh 2026-10-08 (Windows-native Task Scheduler)** &mdash; 15 hours ago
+- **street ltcma: method text says gated firms are left out (C-20261007-02)** &mdash; 1 day ago
+- **market intel: consensus preliminary edition 2026-10-07 (task market-intel-monthly)** &mdash; 1 day ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
