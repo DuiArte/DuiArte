@@ -37,11 +37,11 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **dashboard: LTCMA vs the published Street consensus under Model Output** &mdash; 5 days ago
-- **strategies: log axes print whole values; stamp says the curves end Apr 2026** &mdash; 6 days ago
-- **docs: Projects sync pushed 2026-10-09 (DEC-40 resolved)** &mdash; 6 days ago
-- **projects: card copy matches what each repo contains; Static Drift badge Research** &mdash; 6 days ago
-- **chore: daily website refresh 2026-10-08 (Windows-native Task Scheduler)** &mdash; 6 days ago
+- **dashboard: LTCMA vs the published Street consensus under Model Output** &mdash; 6 days ago
+- **strategies: log axes print whole values; stamp says the curves end Apr 2026** &mdash; 1 week ago
+- **docs: Projects sync pushed 2026-10-09 (DEC-40 resolved)** &mdash; 1 week ago
+- **projects: card copy matches what each repo contains; Static Drift badge Research** &mdash; 1 week ago
+- **chore: daily website refresh 2026-10-08 (Windows-native Task Scheduler)** &mdash; 1 week ago
 - **street ltcma: method text says gated firms are left out (C-20261007-02)** &mdash; 1 week ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
