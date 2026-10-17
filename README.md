@@ -37,7 +37,7 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **dashboard: LTCMA vs the published Street consensus under Model Output** &mdash; 6 days ago
+- **dashboard: LTCMA vs the published Street consensus under Model Output** &mdash; 1 week ago
 - **strategies: log axes print whole values; stamp says the curves end Apr 2026** &mdash; 1 week ago
 - **docs: Projects sync pushed 2026-10-09 (DEC-40 resolved)** &mdash; 1 week ago
 - **projects: card copy matches what each repo contains; Static Drift badge Research** &mdash; 1 week ago
