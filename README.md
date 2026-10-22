@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **market intel: consensus preliminary edition 2026-10-20 (task market-intel-monthly)** &mdash; 13 hours ago
-- **congress renderer: filer asset text trimmed to 2 decimals (guard_decimals)** &mdash; 13 hours ago
-- **market intel Track B: congressional-activity renderer + conditional nav + freshness budget** &mdash; 14 hours ago
-- **chore: daily website refresh 2026-10-20 (Windows-native Task Scheduler)** &mdash; 14 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-10-19 (01-04 + risk/MC)** &mdash; 1 day ago
-- **weekly_model_rebuild -Publish: release the repo lock before handing off to daily_refresh** &mdash; 1 day ago
+- **chore: daily website refresh 2026-10-21 (Windows-native Task Scheduler)** &mdash; 14 hours ago
+- **rollforward: guard today's MXN=X bar against the SIC-implied rate** &mdash; 15 hours ago
+- **portfolio: FX attribution uses the walk's exact per-fill buy FX; one USDMXN per page** &mdash; 16 hours ago
+- **market intel: consensus preliminary edition 2026-10-20 (task market-intel-monthly)** &mdash; 1 day ago
+- **congress renderer: filer asset text trimmed to 2 decimals (guard_decimals)** &mdash; 1 day ago
+- **market intel Track B: congressional-activity renderer + conditional nav + freshness budget** &mdash; 1 day ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
