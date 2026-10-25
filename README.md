@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **market intel: congressional activity 2026-10-23 (task market-intel-weekly)** &mdash; 9 hours ago
-- **site: honest Yahoo transport for every yfinance call (no browser impersonation)** &mdash; 9 hours ago
-- **chore: daily website refresh 2026-10-23 (Windows-native Task Scheduler)** &mdash; 13 hours ago
-- **docs: two new Market Intel writers (weekly congress, daily Fed path)** &mdash; 1 day ago
-- **rollforward: guard today's MXN=X bar against the SIC-implied rate** &mdash; 2 days ago
-- **portfolio: FX attribution uses the walk's exact per-fill buy FX; one USDMXN per page** &mdash; 2 days ago
+- **market intel: congressional activity 2026-10-23 (task market-intel-weekly)** &mdash; 1 day ago
+- **site: honest Yahoo transport for every yfinance call (no browser impersonation)** &mdash; 1 day ago
+- **chore: daily website refresh 2026-10-23 (Windows-native Task Scheduler)** &mdash; 1 day ago
+- **docs: two new Market Intel writers (weekly congress, daily Fed path)** &mdash; 2 days ago
+- **rollforward: guard today's MXN=X bar against the SIC-implied rate** &mdash; 3 days ago
+- **portfolio: FX attribution uses the walk's exact per-fill buy FX; one USDMXN per page** &mdash; 3 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
