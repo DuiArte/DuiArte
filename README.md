@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **market intel: fed path odds + event outlook 2026-10-29 (task market-intel-daily)** &mdash; 15 hours ago
-- **chore: daily website refresh 2026-10-29 (Windows-native Task Scheduler)** &mdash; 15 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-10-25 (01-04 + risk/MC)** &mdash; 4 days ago
-- **site: honest Yahoo transport for every yfinance call (no browser impersonation)** &mdash; 6 days ago
+- **market intel: fed path odds + event outlook 2026-10-30 (task market-intel-daily)** &mdash; 14 hours ago
+- **chore: daily website refresh 2026-10-30 (Windows-native Task Scheduler)** &mdash; 14 hours ago
+- **portfolio: replace the two peak tiles with cost basis and S&P same-money** &mdash; 15 hours ago
+- **chore(model): weekly LTCMA rebuild 2026-10-25 (01-04 + risk/MC)** &mdash; 5 days ago
+- **site: honest Yahoo transport for every yfinance call (no browser impersonation)** &mdash; 1 week ago
 - **docs: two new Market Intel writers (weekly congress, daily Fed path)** &mdash; 1 week ago
-- **rollforward: guard today's MXN=X bar against the SIC-implied rate** &mdash; 1 week ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
