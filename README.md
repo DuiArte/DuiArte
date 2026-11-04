@@ -37,10 +37,10 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore(model): weekly LTCMA rebuild 2026-11-01 (01-04 + risk/MC)** &mdash; 1 day ago
-- **market intel: fed path odds + event outlook 2026-10-30 (task market-intel-daily)** &mdash; 3 days ago
-- **chore: daily website refresh 2026-10-30 (Windows-native Task Scheduler)** &mdash; 3 days ago
-- **portfolio: replace the two peak tiles with cost basis and S&P same-money** &mdash; 3 days ago
+- **market intel: fed path odds + event outlook 2026-11-03 (task market-intel-daily)** &mdash; 16 hours ago
+- **chore: daily website refresh 2026-11-03 (Windows-native Task Scheduler)** &mdash; 16 hours ago
+- **chore(model): weekly LTCMA rebuild 2026-11-01 (01-04 + risk/MC)** &mdash; 2 days ago
+- **portfolio: replace the two peak tiles with cost basis and S&P same-money** &mdash; 4 days ago
 - **site: honest Yahoo transport for every yfinance call (no browser impersonation)** &mdash; 1 week ago
 - **docs: two new Market Intel writers (weekly congress, daily Fed path)** &mdash; 1 week ago
 
