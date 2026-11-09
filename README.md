@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **market intel: fed path odds + event outlook 2026-11-06 (task market-intel-daily)** &mdash; 1 day ago
-- **portfolio: stock splits after the walk (SOXX 3:1 ex 2026-11-05); quiet exports don't freeze the roll** &mdash; 2 days ago
-- **docs(push-sources): wave 14 - weekly step 3c capstone inputs, picks_history 14 columns, .cache/insider_px** &mdash; 3 days ago
-- **feat(stocks): wave 14 - two-sided band 15/25, insider own record, XOM both CIKs, weekly capstone macro inputs** &mdash; 3 days ago
-- **chore: daily website refresh 2026-11-04 (Windows-native Task Scheduler)** &mdash; 3 days ago
-- **chore(model): weekly LTCMA rebuild 2026-11-01 (01-04 + risk/MC)** &mdash; 6 days ago
+- **market intel: congressional activity 2026-11-09 (task market-intel-weekly)** &mdash; 3 hours ago
+- **chore(model): weekly LTCMA rebuild 2026-11-08 (01-04 + risk/MC)** &mdash; 13 hours ago
+- **portfolio: stock splits after the walk (SOXX 3:1 ex 2026-11-05); quiet exports don't freeze the roll** &mdash; 4 days ago
+- **docs(push-sources): wave 14 - weekly step 3c capstone inputs, picks_history 14 columns, .cache/insider_px** &mdash; 4 days ago
+- **feat(stocks): wave 14 - two-sided band 15/25, insider own record, XOM both CIKs, weekly capstone macro inputs** &mdash; 4 days ago
+- **chore: daily website refresh 2026-11-04 (Windows-native Task Scheduler)** &mdash; 4 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
