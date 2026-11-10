@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **market intel: congressional activity 2026-11-09 (task market-intel-weekly)** &mdash; 3 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-11-08 (01-04 + risk/MC)** &mdash; 13 hours ago
-- **portfolio: stock splits after the walk (SOXX 3:1 ex 2026-11-05); quiet exports don't freeze the roll** &mdash; 4 days ago
-- **docs(push-sources): wave 14 - weekly step 3c capstone inputs, picks_history 14 columns, .cache/insider_px** &mdash; 4 days ago
-- **feat(stocks): wave 14 - two-sided band 15/25, insider own record, XOM both CIKs, weekly capstone macro inputs** &mdash; 4 days ago
-- **chore: daily website refresh 2026-11-04 (Windows-native Task Scheduler)** &mdash; 4 days ago
+- **chore(site): publish the generated files the remake sources imply (images, style.css, header on committed pages)** &mdash; 4 minutes ago
+- **feat(site): Editorial Terminal look, Research corner + Research Library, JWST heroes (remake 2026-11-10)** &mdash; 4 minutes ago
+- **market intel: consensus official edition 2026-11-10 (task market-intel-monthly)** &mdash; 1 hour ago
+- **feat(market_intel): pages say what is true now that Market Intel checks daily (wave 16)** &mdash; 8 hours ago
+- **chore: daily website refresh 2026-11-09 (Windows-native Task Scheduler)** &mdash; 12 hours ago
+- **portfolio: feed the walk the 09-nov broker export (05-nov DCA, after SOXX's 3:1 split)** &mdash; 12 hours ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
