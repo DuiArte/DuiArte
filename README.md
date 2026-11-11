@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **chore(site): publish the generated files the remake sources imply (images, style.css, header on committed pages)** &mdash; 4 minutes ago
-- **feat(site): Editorial Terminal look, Research corner + Research Library, JWST heroes (remake 2026-11-10)** &mdash; 4 minutes ago
-- **market intel: consensus official edition 2026-11-10 (task market-intel-monthly)** &mdash; 1 hour ago
-- **feat(market_intel): pages say what is true now that Market Intel checks daily (wave 16)** &mdash; 8 hours ago
-- **chore: daily website refresh 2026-11-09 (Windows-native Task Scheduler)** &mdash; 12 hours ago
-- **portfolio: feed the walk the 09-nov broker export (05-nov DCA, after SOXX's 3:1 split)** &mdash; 12 hours ago
+- **chore(site): publish the generated files the wave r2 sources imply (theme head + control, style.css, theme.css)** &mdash; 2 minutes ago
+- **feat(site): one figure one place, one currency at a time, entries chart; dark mode (wave r2, 2026-11-10)** &mdash; 2 minutes ago
+- **market intel: congressional activity 2026-11-11 (task market-intel-weekly)** &mdash; 1 hour ago
+- **chore: daily website refresh 2026-11-10 (Windows-native Task Scheduler)** &mdash; 16 hours ago
+- **feat(market_intel): pages say what is true now that Market Intel checks daily (wave 16)** &mdash; 1 day ago
+- **portfolio: feed the walk the 09-nov broker export (05-nov DCA, after SOXX's 3:1 split)** &mdash; 1 day ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
