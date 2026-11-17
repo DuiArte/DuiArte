@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **market intel: fed path odds + event outlook 2026-11-13 (task market-intel-daily)** &mdash; 2 days ago
-- **chore: daily website refresh 2026-11-13 (Windows-native Task Scheduler)** &mdash; 2 days ago
-- **chore(site): publish the generated files the wave r2 sources imply (theme head + control, style.css, theme.css)** &mdash; 5 days ago
-- **feat(site): one figure one place, one currency at a time, entries chart; dark mode (wave r2, 2026-11-10)** &mdash; 5 days ago
-- **feat(market_intel): pages say what is true now that Market Intel checks daily (wave 16)** &mdash; 6 days ago
-- **portfolio: feed the walk the 09-nov broker export (05-nov DCA, after SOXX's 3:1 split)** &mdash; 6 days ago
+- **chore: daily website refresh 2026-11-17 (Windows-native Task Scheduler)** &mdash; 36 minutes ago
+- **chore(site): publish the generated files the wave r3 sources imply (share head, 404, sitemap, robots, style.css, photographs)** &mdash; 46 minutes ago
+- **feat(site): share-ready pages, lighter charts, one Fed vintage, style.css fixes (wave r3, 2026-11-10)** &mdash; 46 minutes ago
+- **market intel: congressional activity 2026-11-17 (task market-intel-weekly)** &mdash; 2 hours ago
+- **feat(market_intel): pages say what is true now that Market Intel checks daily (wave 16)** &mdash; 1 week ago
+- **portfolio: feed the walk the 09-nov broker export (05-nov DCA, after SOXX's 3:1 split)** &mdash; 1 week ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
