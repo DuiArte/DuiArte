@@ -37,11 +37,11 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **market intel: consensus official edition 2026-11-19 (task market-intel-monthly)** &mdash; 2 hours ago
-- **chore: daily website refresh 2026-11-18 (Windows-native Task Scheduler)** &mdash; 17 hours ago
-- **chore(model): weekly LTCMA rebuild 2026-11-18 (01-04 + risk/MC)** &mdash; 23 hours ago
-- **chore(site): publish the generated files the wave r3 sources imply (share head, 404, sitemap, robots, style.css, photographs)** &mdash; 2 days ago
-- **feat(site): share-ready pages, lighter charts, one Fed vintage, style.css fixes (wave r3, 2026-11-10)** &mdash; 2 days ago
+- **market intel: fed path odds + event outlook 2026-11-19 (task market-intel-daily)** &mdash; 17 hours ago
+- **chore: daily website refresh 2026-11-19 (Windows-native Task Scheduler)** &mdash; 17 hours ago
+- **chore(model): weekly LTCMA rebuild 2026-11-18 (01-04 + risk/MC)** &mdash; 1 day ago
+- **chore(site): publish the generated files the wave r3 sources imply (share head, 404, sitemap, robots, style.css, photographs)** &mdash; 3 days ago
+- **feat(site): share-ready pages, lighter charts, one Fed vintage, style.css fixes (wave r3, 2026-11-10)** &mdash; 3 days ago
 - **feat(market_intel): pages say what is true now that Market Intel checks daily (wave 16)** &mdash; 1 week ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
