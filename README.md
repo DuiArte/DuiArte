@@ -37,12 +37,12 @@ the prettiest in-sample curve.
 ## Recent activity
 
 <!-- ACTIVITY:START -->
-- **market intel: congressional activity 2026-11-26 (task market-intel-weekly)** &mdash; 3 hours ago
-- **chore: daily website refresh 2026-11-25 (Windows-native Task Scheduler)** &mdash; 19 hours ago
-- **fix(refresh): exact CSS-regression guard (case-sensitive, not inside base64 runs)** &mdash; 1 day ago
-- **chore(data): data/fx_monthly.csv moves to the private data folder (wave r3s, -UnpublishFxMonthly)** &mdash; 2 days ago
-- **chore(site): the committed public files in neutral words (wave r3s generated files)** &mdash; 2 days ago
-- **feat(site): the retail broker and its trading platform in general words on every public file (wave r3s, 2026-11-17)** &mdash; 2 days ago
+- **market intel: consensus official edition 2026-11-27 (task market-intel-monthly)** &mdash; 3 hours ago
+- **chore: daily website refresh 2026-11-26 (Windows-native Task Scheduler)** &mdash; 18 hours ago
+- **fix(refresh): exact CSS-regression guard (case-sensitive, not inside base64 runs)** &mdash; 2 days ago
+- **chore(data): data/fx_monthly.csv moves to the private data folder (wave r3s, -UnpublishFxMonthly)** &mdash; 3 days ago
+- **chore(site): the committed public files in neutral words (wave r3s generated files)** &mdash; 3 days ago
+- **feat(site): the retail broker and its trading platform in general words on every public file (wave r3s, 2026-11-17)** &mdash; 3 days ago
 
 _Auto-updated daily from [DuiArte/ltcma](https://github.com/DuiArte/ltcma)._
 <!-- ACTIVITY:END -->
